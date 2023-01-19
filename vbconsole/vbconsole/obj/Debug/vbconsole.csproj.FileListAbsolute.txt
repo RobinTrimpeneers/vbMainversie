@@ -1,0 +1,8 @@
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\bin\Debug\vbconsole.exe.config
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\bin\Debug\vbconsole.exe
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\bin\Debug\vbconsole.pdb
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\obj\Debug\vbconsole.csproj.AssemblyReference.cache
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\obj\Debug\vbconsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\obj\Debug\vbconsole.csproj.CoreCompileInputs.cache
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\obj\Debug\vbconsole.exe
+C:\Users\Leerling6ITN\Desktop\vbconsole\vbconsole\obj\Debug\vbconsole.pdb
